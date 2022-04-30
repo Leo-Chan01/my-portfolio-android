@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_works"
+        android:icon="@drawable/ic_round_developer_mode_24"
+        android:title="@string/title_work" />
+
+    <item
+        android:id="@+id/navigation_me"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/title_me" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_round_settings_24"
+        android:title="@string/title_settings" />
+
+</menu>
